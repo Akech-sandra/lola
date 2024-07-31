@@ -237,7 +237,9 @@ h2 {
 #about p, #contact form {
     text-align: center;
     line-height: 1.6;
-    font-size: 1.2em;
+    font-size: 1.2em
+    
+    ;
 }
 
 #about .about-container {
